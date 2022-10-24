@@ -4,4 +4,5 @@ Este es un repositorio de **PRUEBAS**. Me sirve para practicar comandos de Git y
 
 **No hay nada importante aquí**.
 
-Larga vida y prosperidad :) 
+
+>**Primera ley de Windows**: Para todo mal reinstalar y para todo bien también.
